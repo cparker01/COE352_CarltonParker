@@ -305,7 +305,7 @@ if __name__ == '__main__':
     # declaring variables
     L = 1.
     N = 11
-    dt = 1.
+    dt = 1/551.
     t0 = 0.
     T_fin = 1.
 
@@ -358,6 +358,7 @@ if __name__ == '__main__':
     plt.legend()
     plt.grid(True)
     plt.show()
+
 
 
 
